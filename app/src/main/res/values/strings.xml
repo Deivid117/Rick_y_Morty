@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kosmos</string>
+    <string name="error_msg">Ocurrió un error, inténtelo más tarde</string>
+    <string name="empty_data">No hay información por mostrar</string>
+    <string name="character_status">Status: </string>
+    <string name="character_species">Species: </string>
+    <string name="character_type">Type: </string>
+    <string name="character_gender">Gender: </string>
+    <string name="character_origin">Origin: </string>
+    <string name="character_location">Location: </string>
+    <string name="btn_see_details">Ver detalle</string>
+    <string name="btn_hide_details">Ocultar detalle</string>
+    <string name="img_description">character photo</string>
+    <string name="topbar_title"><![CDATA[Rick & Morty]]></string>
+</resources>
